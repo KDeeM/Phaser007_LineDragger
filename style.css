@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  padding: .5rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.gameContainer {
+  width: 100vw;
+  flex-grow: 1;
+}
